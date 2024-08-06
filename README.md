@@ -1,4 +1,4 @@
-# cypress-gorest-acrolinx
+# cypress gorest api automated testing
 The tests written in this project explores testing the /post, /user and /user/id/posts endpoints available at [gorest](https://gorest.co.in/). Automated tests were written in Javascript with cypress technology
 
 ## Getting Started
