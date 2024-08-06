@@ -1,0 +1,16 @@
+{
+  "validPost": {
+    "id": 145897,
+    "user_id": 7287164,
+    "title": "Comprehendo delectus subvenio derideo cognomen.",
+    "body": "Earum sustineo solum. Temeritas cedo defigo. Sed et subvenio. Tardus succedo cursus. Valetudo arma curvus. Sint compono condico. Tepidus vel suadeo. Pecus soleo stella. Cum arca suppellex. Libero cavus celo. Autem vulgo viduata. Amplexus territo timidus. Cruentus depraedor laborum. Paulatim dignissimos sui. Omnis corona coruscus. Casus demulceo vulticulus. Adipisci eaque ea. Rerum natus alter."
+  },
+  "invalidPost": {
+    "random": "Earum sustineo solum. Temeritas cedo defigo. Sed et subvenio. Tardus succedo cursus. Valetudo arma curvus. Sint compono condico. Tepidus vel suadeo. Pecus soleo stella. Cum arca suppellex. Libero cavus celo. Autem vulgo viduata. Amplexus territo timidus. Cruentus depraedor laborum. Paulatim dignissimos sui. Omnis corona coruscus. Casus demulceo vulticulus. Adipisci eaque ea. Rerum natus alter."
+  },
+  "userPost": {
+    "title": "Comprehendo delectus subvenio derideo cognomen.",
+    "body": "Earum sustineo solum. Temeritas cedo defigo. Sed et subvenio. Tardus succedo cursus. Valetudo arma curvus. Sint compono condico. Tepidus vel suadeo. Pecus soleo stella. Cum arca suppellex. Libero cavus celo. Autem vulgo viduata. Amplexus territo timidus. Cruentus depraedor laborum. Paulatim dignissimos sui. Omnis corona coruscus. Casus demulceo vulticulus. Adipisci eaque ea. Rerum natus alter."
+  },
+  "userPostInvalid": {}
+}

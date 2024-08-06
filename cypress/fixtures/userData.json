@@ -1,0 +1,34 @@
+{
+  "user1": {
+    "name": "Tenali Rahakrishna",
+    "gender": "male",
+    "email": "tenali.makrusa@16hopeee.com",
+    "status": "active"
+  },
+  "user2": {
+    "name": "Darshwana Bhattacharya LLD",
+    "email": "bhatcharya_lld_darswena@ledneaer.test",
+    "gender": "male",
+    "status": "inactive"
+  },
+  "user3": {
+  },
+  "user4": {
+        "name": "Agrata Arora",
+        "email": "agrata_arora@rosacco.example",
+        "gender": "female",
+        "status": "active"
+  },
+  "user5": {
+        "name": "Rev. Girik Pilla",
+        "email": "rev_girik_pilla@lebsck.example",
+        "gender": "female",
+        "status": "inactive"
+  },
+  "user6": {
+        "name": "Anurag Khan",
+        "email": "khan_anurag@dickinsn-wolf.test",
+        "gender": "male",
+        "status": "inactive"
+  }
+}
