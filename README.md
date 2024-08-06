@@ -41,11 +41,11 @@ To run tests, use the following commands outlined in the package.json, run these
 
 ## Test results visualization
 To visualize the test result there are 2 posibilities:
-1. Using Cypress console: View the result in cypress console after running the tests in headed mode. to do this script, `npm run test`. A browser window will open with a breakdown of all the rest result
+1. Using Cypress console: The test result are visible in cypress console after running each test as described above in headed mode.
 
  ![Alt text](images/cypress-test-result.png)
 
-2. Using cypress-awesomeware-reporter: After runing the test, a reports folder will be generated at the root of your project locate a file named `index.html`, locate the file on your local maching and load it in a browser. All results of the tests run will be visible on a webpage.
+2. Using cypress-awesomeware-reporter: After runing the test, a `/reports` folder will be generated at the root of your project. Locate a file inside this folder named `index.html`, find the file on your local maching and load it in a browser. All results of the tests run will be visible on a webpage.
 
   ![Alt text](images/index-test-result.png)
 
