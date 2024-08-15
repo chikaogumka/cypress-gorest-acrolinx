@@ -9,9 +9,10 @@ To clone this repository locally and install its dependencies, execute the follo
 
 ```shell
 git clone https://github.com/chikaogumka/cypress-gorest-acrolinx
-cd cypress-gorest-acrolinx
+cd cypress-gorest-acrolinx or open the project in an IDE with a terminal
 npm install
 ```
+
 ## Setup environment variables
 To call the endpoints for this tests you need to set authentication using an environment file. To do this:
 - create a file named `cypress.env.json`.
