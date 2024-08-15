@@ -8,9 +8,17 @@ describe('Users endpoint API tests - happy path test cases', () => {
     })
   });
 
+
+
   it('should create a new user on sending a POST request and return a 201 status', () => {
     const user1 = usersData.user1;
 
+    const randomEmail = "tenali.makrusa"+Math.floor(Math.random()*10)+"@16hopeee.com";
+
+    user1.email = randomEmail;
+
+    cy.log(user1);
+  
     cy.apiPost('/users', user1)
       .then((response) => {
         expect(response.status).to.eq(201);
@@ -19,6 +27,7 @@ describe('Users endpoint API tests - happy path test cases', () => {
         expect(response.body).to.have.property('email');
         expect(response.body).to.have.property('gender');
         expect(response.body).to.have.property('status');
+        cy.log(response);
       });
   });
 

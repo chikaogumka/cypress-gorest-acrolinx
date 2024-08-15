@@ -75,3 +75,5 @@ Cypress.Commands.add('apiPostNoAuth', (url, body = {}) => {
     failOnStatusCode: false
   });
 });
+
+Cypress.Commands.overwrite('log', (subject, message) => cy.task('log', message));
